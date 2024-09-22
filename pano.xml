@@ -48,7 +48,7 @@
       <hotspot pan="-112.19" skinid="ht_node" description="" tilt="0.29" id="Point02" url="{node7}" target="$fwd" title="1F 秀麗咖啡"/>
     </hotspots>
     <media>
-      <video stretch="1.178" id="Element01" pan="150.450" handcursor="1" hidepinned="0" nodechangekeep="0" popoutscaling="100" level="0.700" field="90.000" width="1920" mode="3" tiltsize="10.000" roty="7.780" clickmode="4" tilt="14.740" height="1080" rotx="14.770" poster="media/worldinn_video_preview.jpg" popbackmode="2" loop="0" startmutedmobile="1" rotz="-1.860" pansize="10.000" fov="40.690" ambientlevel="0.000">
+      <video stretch="1.178" id="Element01" pan="150.450" handcursor="1" hidepinned="0" nodechangekeep="0" popoutscaling="100" level="0.700" field="90.000" width="1920" mode="3" tiltsize="10.000" roty="7.780" clickmode="1" tilt="14.740" height="1080" rotx="14.770" poster="media/worldinn_video_preview.jpg" popbackmode="2" loop="0" startmutedmobile="1" rotz="-1.860" pansize="10.000" fov="40.690" ambientlevel="0.000">
         <source url="media/worldInn_hualien.mp4"/>
       </video>
     </media>
