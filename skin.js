@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.4/20938
 // Filename: skin_with_FloorPlan_and_Logo_v12_multi_hotspot_icon.ggsk
-// Generated 2024-09-22T21:50:38
+// Generated 2024-09-22T22:26:58
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_thumbnail_menu', 2, false, { ignoreInState: 1  });
@@ -2350,7 +2350,7 @@ function pano2vrSkin(player,base) {
 				me._image_1_1.style.transition='left 0s, bottom 0s, width 0s, height 0s';
 				if (me._image_1_1.ggCurrentLogicStatePosition == 0) {
 					me._image_1_1.style.left='1%';
-					me._image_1_1.style.bottom='2%';
+					me._image_1_1.style.bottom='4%';
 				}
 				else {
 					me._image_1_1.style.left='2%';
@@ -2367,6 +2367,12 @@ function pano2vrSkin(player,base) {
 			{
 				newLogicStateSize = 0;
 			}
+			else if (
+				((player.getViewerSize(true).width < 800))
+			)
+			{
+				newLogicStateSize = 1;
+			}
 			else {
 				newLogicStateSize = -1;
 			}
@@ -2376,6 +2382,11 @@ function pano2vrSkin(player,base) {
 				if (me._image_1_1.ggCurrentLogicStateSize == 0) {
 					me._image_1_1.style.width='60px';
 					me._image_1_1.style.height='60px';
+					skin.updateSize(me._image_1_1);
+				}
+				else if (me._image_1_1.ggCurrentLogicStateSize == 1) {
+					me._image_1_1.style.width='80px';
+					me._image_1_1.style.height='80px';
 					skin.updateSize(me._image_1_1);
 				}
 				else {
