@@ -20,7 +20,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="1F 入口" url="{node1}" description="" pan="-1.73" target="$fwd" id="Point01" tilt="0.8" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -51,6 +55,9 @@
       <video level="0.700" clickmode="1" hidepinned="0" poster="media/worldinn_video_preview.jpg" roty="7.780" rotx="14.770" height="1080" pan="150.450" id="Element01" startmutedmobile="1" handcursor="1" width="1920" stretch="1.178" tilt="14.740" loop="0" rotz="-1.860" nodechangekeep="0" field="90.000" ambientlevel="0.000" popbackmode="2" fov="40.690" tiltsize="10.000" mode="3" popoutscaling="100" pansize="10.000">
         <source url="media/worldInn_hualien.mp4"/>
       </video>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
     </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
@@ -78,7 +85,11 @@
       <hotspot title="1F 入口" url="{node1}" description="" pan="-76.28" target="$fwd" id="Point01" tilt="0.92" skinid="ht_node"/>
       <hotspot title="1F 桌-台灣" url="{node9}" description="" pan="-266.56" target="$fwd" id="Point02" tilt="-0.24" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -105,7 +116,11 @@
       <hotspot title="1F 桌-台灣" url="{node9}" description="" pan="-151.82" target="$fwd" id="Point01" tilt="-2.23" skinid="ht_node"/>
       <hotspot title="2F 樓梯間" url="{node27}" description="" pan="-81.58" target="$fwd" id="Point02" tilt="21.07" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -134,7 +149,11 @@
       <hotspot title="1F 廚房" url="{node5}" description="" pan="-85.92" target="$fwd" id="Point03" tilt="-0.74" skinid="ht_node"/>
       <hotspot title="1F 樓梯間" url="{node43}" description="" pan="-139.31" target="$fwd" id="Point04" tilt="20.68" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -159,7 +178,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="1F 桌-台灣" url="{node9}" description="" pan="-27.29" target="$fwd" id="Point01" tilt="-42.61" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -187,7 +210,11 @@
       <hotspot title="1F 廚房" url="{node12}" description="" pan="-220.5" target="$fwd" id="Point02" tilt="-4.77" skinid="ht_node"/>
       <hotspot title="1F 樓梯間" url="{node43}" description="" pan="-13.56" target="" id="Point03" tilt="17.13" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -214,7 +241,11 @@
       <hotspot title="1F 廚房" url="{node5}" description="" pan="-268.96" target="$fwd" id="Point01" tilt="2.62" skinid="ht_node"/>
       <hotspot title="1F 洗衣間" url="{node10}" description="" pan="-82.68" target="$fwd" id="Point02" tilt="-8.5" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -240,7 +271,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="1F 廚房" url="{node12}" description="" pan="-125.97" target="$fwd" id="Point01" tilt="3.18" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -271,7 +306,11 @@
       <hotspot title="2F 亞洲八人房" url="{node19}" description="" pan="-16.54" target="$fwd" id="Point05" tilt="-1.15" skinid="ht_node_1"/>
       <hotspot title="2F 公共區" url="{node24}" description="" pan="-171.94" target="" id="Point06" tilt="-5.01" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -299,7 +338,11 @@
       <hotspot title="2F 公共盥洗室" url="{node25}" description="" pan="-340.47" target="$fwd" id="Point02" tilt="-0.86" skinid="ht_node"/>
       <hotspot title="2F 公共區" url="{node28}" description="" pan="-78.4" target="$fwd" id="Point03" tilt="-0.39" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -327,7 +370,11 @@
       <hotspot title="2F 公共廁所" url="{node22}" description="" pan="-151.36" target="$fwd" id="Point02" tilt="-0.15" skinid="ht_node"/>
       <hotspot title="3F 樓梯口" url="{node44}" description="" pan="-217.01" target="$fwd" id="Point03" tilt="24.03" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -353,7 +400,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="2F 公共區" url="{node24}" description="" pan="-286.8" target="$fwd" id="Point01" tilt="-1.67" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -380,7 +431,11 @@
       <hotspot title="2F 公共區" url="{node28}" description="" pan="-271.85" target="$fwd" id="Point01" tilt="-0.95" skinid="ht_node"/>
       <hotspot title="2F 公共廁所" url="{node23}" description="" pan="-12.11" target="$fwd" id="Point02" tilt="1.06" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -406,7 +461,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="2F 公共廁所" url="{node22}" description="" pan="-131.64" target="$fwd" id="Point01" tilt="0.55" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -432,7 +491,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="2F 樓梯間" url="{node27}" description="" pan="-249.35" target="$fwd" id="Point01" tilt="0.36" skinid="ht_node_1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -459,7 +522,11 @@
       <hotspot title="大洋洲三人和室房" url="{node17}" description="" pan="-29.31" target="$fwd" id="Point01" tilt="-13.06" skinid="ht_node_1"/>
       <hotspot title="2F 樓梯間" url="{node27}" description="" pan="-198.1" target="$fwd" id="Point02" tilt="-1.44" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -485,7 +552,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="2F 大洋洲 三人和室房 " url="{node18}" description="" pan="-286.06" target="$fwd" id="Point01" tilt="0.97" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -512,7 +583,11 @@
       <hotspot title="2F 樓梯間" url="{node27}" description="" pan="-90.72" target="$fwd" id="Point01" tilt="-1.11" skinid="ht_node"/>
       <hotspot title="2F 非洲四人房" url="{node14}" description="" pan="-301.05" target="$fwd" id="Point02" tilt="0.75" skinid="ht_node_1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -538,7 +613,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="2F 非洲四人房" url="{node13}" description="" pan="-326.47" target="$fwd" id="Point01" tilt="-2.85" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -565,7 +644,11 @@
       <hotspot title="2F 樓梯間" url="{node27}" description="" pan="-128.73" target="$fwd" id="Point01" tilt="1.82" skinid="ht_node"/>
       <hotspot title="2F 亞洲八人房" url="{node21}" description="" pan="-214.91" target="$fwd" id="Point02" tilt="-1.82" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -591,7 +674,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="2F 亞洲八人房" url="{node21}" description="" pan="-309.61" target="$fwd" id="Point01" tilt="-2.18" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -618,7 +705,11 @@
       <hotspot title="2F 亞洲八人房" url="{node19}" description="" pan="-87.12" target="$fwd" id="Point01" tilt="-0.21" skinid="ht_node"/>
       <hotspot title="2F 亞洲八人房" url="{node20}" description="" pan="-53.84" target="$fwd" id="Point02" tilt="-14.33" skinid="ht_node_1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -647,7 +738,11 @@
       <hotspot title="" url="{node36}" description="" pan="-22.33" target="$fwd" id="Point03" tilt="0.77" skinid="ht_node"/>
       <hotspot title="3F 公共盥洗室" url="{node34}" description="" pan="-132.5" target="$fwd" id="Point04" tilt="0.73" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -676,7 +771,11 @@
       <hotspot title="3F 十人背包房" url="{node31}" description="" pan="-4.33" target="$fwd" id="Point03" tilt="15.21" skinid="ht_node_1"/>
       <hotspot title="3F 十人背包房" url="{node32}" description="" pan="-279.74" target="$fwd" id="Point04" tilt="-2.63" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -702,7 +801,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="3F 十人背包房" url="{node30}" description="" pan="-166.23" target="$fwd" id="Point01" tilt="1.65" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -728,7 +831,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="3F 十人背包房" url="{node30}" description="" pan="-329.31" target="$fwd" id="Point01" tilt="-25.32" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -754,7 +861,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="3F 十人背包房" url="{node30}" description="" pan="-214.55" target="$fwd" id="Point01" tilt="-6.04" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -781,7 +892,11 @@
       <hotspot title="3F 樓梯口" url="{node44}" description="" pan="-229.09" target="$fwd" id="Point01" tilt="-1.52" skinid="ht_node"/>
       <hotspot title="3F 公共區" url="{node35}" description="" pan="-75.4" target="$fwd" id="Point02" tilt="-0.91" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -808,7 +923,11 @@
       <hotspot title="3F 公共盥洗室" url="{node34}" description="" pan="-271.94" target="$fwd" id="Point01" tilt="-0.35" skinid="ht_node"/>
       <hotspot title="3F 公共廁所" url="{node33}" description="" pan="-157.85" target="$fwd" id="Point02" tilt="-0.53" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -834,7 +953,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="3F 公共區" url="{node35}" description="" pan="-121.2" target="$fwd" id="Point01" tilt="-2.17" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -861,7 +984,11 @@
       <hotspot title="3F 樓梯口" url="{node44}" description="" pan="-152.46" target="$fwd" id="Point01" tilt="2.23" skinid="ht_node"/>
       <hotspot title="" url="{node37}" description="" pan="-322" target="$fwd" id="Point02" tilt="-6.15" skinid="ht_node_1"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -887,7 +1014,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="" url="{node36}" description="" pan="-356.35" target="$fwd" id="Point01" tilt="0.02" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -914,7 +1045,11 @@
       <hotspot title="4F 瑞典套房" url="{node39}" description="" pan="-333.92" target="$fwd" id="Point02" tilt="-0.02" skinid="ht_node"/>
       <hotspot title="4F 公共區" url="{node47}" description="" pan="-70.24" target="$fwd" id="Point03" tilt="-1.47" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -941,7 +1076,11 @@
       <hotspot title="4F 樓梯口" url="{node46}" description="" pan="-256.69" target="$fwd" id="Point01" tilt="-1.43" skinid="ht_node"/>
       <hotspot title="4F 瑞典套房" url="{node40}" description="" pan="-167.94" target="$fwd" id="Point02" tilt="-0.48" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -967,7 +1106,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="4F 瑞典套房" url="{node39}" description="" pan="-151.39" target="$fwd" id="Point01" tilt="-1.56" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -994,7 +1137,11 @@
       <hotspot title="4F 樓梯口" url="{node46}" description="" pan="-263" target="$fwd" id="Point01" tilt="-3.1" skinid="ht_node"/>
       <hotspot title="4F 西班牙套房" url="{node42}" description="" pan="-359.89" target="$fwd" id="Point02" tilt="-0.32" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -1021,7 +1168,11 @@
       <hotspot title="4F 西班牙套房" url="{node41}" description="" pan="-341.96" target="$fwd" id="Point01" tilt="-0.59" skinid="ht_node"/>
       <hotspot title="4F 公共區" url="{node47}" description="" pan="-260" target="$fwd" id="Point02" tilt="-1.79" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
@@ -1047,7 +1198,11 @@
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="4F 西班牙套房" url="{node42}" description="" pan="-92.3" target="$fwd" id="Point01" tilt="-0.88" skinid="ht_node"/>
     </hotspots>
-    <media/>
+    <media>
+      <sound level="0.400" tilt="-1.000" loop="0" nodechangekeep="1" field="90.000" ambientlevel="0.000" pan="-1.000" tiltsize="10.000" mode="0" id="_background" startmutedmobile="0" pansize="10.000">
+        <source url="media/Just Stay - Aakash Gandhi.mp3" mono="0"/>
+      </sound>
+    </media>
     <transition delay="none" zoomin="0" type="crossdissolve" blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomafterinfov="140" softedge="0" zoomafteroutfov="40" zoomoutpause="1" zoomfov="40" blendtime="1" enabled="1"/>
     <flyintransition speed="3.00" enabled="1"/>
     <animation syncanimationwithvideo="0" useinautorotation="0" clipsrandom="0" animsequence="Animation01"/>
